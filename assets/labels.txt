@@ -1,39 +1,57 @@
-Aloevera
-Amla
-Amruta_Balli
-Arali
-Ashoka
-Ashwagandha
-Avacoda
-Bamboo
-Basale
-Betel
-Betel_Nut
-1Brahmi
-1Castor
-1Curry_leaf
-1Doddapatre
-1Ekka
-1Ganike
-1Gauva
-1Geranium
-1Henna
-2Hibiscus
-2Honge
-2Insulin
-2Jasmine
-2Lemon
-2Lemon_grass
-2Mango
-2Mint
-2Nagadali
-2Neem
-3Nithyapushpa
-3Pappaya
-3Pepper
-3pomegranate
-3Raktachandini
-3Rose
-3Sapota
-3Tulasi
-3Wood_sorel
+0 Aloevera
+1 Amla
+2 Amruta_Balli
+3 Arali
+4 Ashoka
+5 Ashwagandha
+6 Avacoda
+7 Bamboo
+8 Basale
+9 Betel
+10 Betel_Nut
+11 Brahmi
+12 Castor
+13 Curry_leaf
+14 Doddapatre
+15 Ekka
+16 Ganike
+17 Gauva
+18 Geranium
+19 Henna
+20 Hibiscus
+21 Honge
+22 Insulin
+23 Jasmine
+24 Lemon
+25 Lemon_grass
+26 Mango
+27 Mint
+28 Nagadali
+29 Neem
+30 Nithyapushpa
+31 Pappaya
+32 Pepper
+33 pomegranate
+34 Raktachandini
+35 Rose
+36 Sapota
+37 Tulasi
+38 Wood_sorel
+39 Astma_weed
+40 Badipala
+41 Balloon_Vine
+42 Beans
+43 Bringaraja
+44 Camphor
+45 caricature
+46 Catharanthus
+47 Chakte
+48 Chilly
+49 Citron lime 
+50 coffee
+51 Common rue
+52 coriender
+53 curry
+54 Nelavembu
+55 Turmeric
+56 tomato
